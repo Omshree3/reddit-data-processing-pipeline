@@ -1,0 +1,6 @@
+pandas
+praw
+apache-airflow
+numpy
+pyyaml
+boto3
